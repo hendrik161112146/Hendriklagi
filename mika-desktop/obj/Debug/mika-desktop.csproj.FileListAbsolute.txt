@@ -1,0 +1,99 @@
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe.config
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\bin\Debug\mika-desktop.pdb
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csprojResolveAssemblyReference.cache
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Properties.Resources.resources
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.GenerateResource.cache
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.CoreCompileInputs.cache
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika-desktop.exe
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika-desktop.pdb
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.BaseForm.resources
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Login.LoginForm.resources
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Profile.ProfileForm.resources
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Absensi.AbsensiForm.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe.config
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\bin\Debug\mika-desktop.pdb
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csprojResolveAssemblyReference.cache
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Absensi.AbsensiForm.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika_desktop.BaseForm.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Login.LoginForm.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Profile.ProfileForm.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Properties.Resources.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.GenerateResource.Cache
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.CoreCompileInputs.cache
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.exe
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika-desktop.pdb
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.MhsForm.resources
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.AddMhsForm.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.AddMhsForm.resources
+D:\Mikroskil\Semester 4\OOP C#\TugasBesar\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.MhsForm.resources
+C:\unibis\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe.config
+C:\unibis\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe
+C:\unibis\mika-desktop\mika-desktop\bin\Debug\mika-desktop.pdb
+C:\unibis\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csprojResolveAssemblyReference.cache
+C:\unibis\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Absensi.AbsensiForm.resources
+C:\unibis\mika-desktop\mika-desktop\obj\Debug\mika_desktop.BaseForm.resources
+C:\unibis\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Login.LoginForm.resources
+C:\unibis\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.AddMhsForm.resources
+C:\unibis\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.MhsForm.resources
+C:\unibis\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Profile.ProfileForm.resources
+C:\unibis\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Properties.Resources.resources
+C:\unibis\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.GenerateResource.Cache
+C:\unibis\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.CoreCompileInputs.cache
+C:\unibis\mika-desktop\mika-desktop\obj\Debug\mika-desktop.exe
+C:\unibis\mika-desktop\mika-desktop\obj\Debug\mika-desktop.pdb
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Dosen.DosenForm.resources
+C:\Users\ZEN-DHARMA\source\repos\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Matkul.MatkulForm.resources
+E:\Github\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe.config
+E:\Github\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe
+E:\Github\mika-desktop\mika-desktop\bin\Debug\mika-desktop.pdb
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csprojResolveAssemblyReference.cache
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Absensi.AbsensiForm.resources
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika_desktop.BaseForm.resources
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Dosen.DosenForm.resources
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Login.LoginForm.resources
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Matkul.MatkulForm.resources
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.AddMhsForm.resources
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.MhsForm.resources
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Profile.ProfileForm.resources
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Properties.Resources.resources
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.GenerateResource.cache
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.CoreCompileInputs.cache
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika-desktop.exe
+E:\Github\mika-desktop\mika-desktop\obj\Debug\mika-desktop.pdb
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe.config
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\bin\Debug\mika-desktop.pdb
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csprojResolveAssemblyReference.cache
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Absensi.AbsensiForm.resources
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika_desktop.BaseForm.resources
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Dosen.DosenForm.resources
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Login.LoginForm.resources
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Matkul.MatkulForm.resources
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.AddMhsForm.resources
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.MhsForm.resources
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Profile.ProfileForm.resources
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Properties.Resources.resources
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.GenerateResource.cache
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.CoreCompileInputs.cache
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika-desktop.exe
+E:\kuliah\Visual Studio\mika\mika-desktop\mika-desktop\obj\Debug\mika-desktop.pdb
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe.config
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\bin\Debug\mika-desktop.exe
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\bin\Debug\mika-desktop.pdb
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csprojAssemblyReference.cache
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Absensi.AbsensiForm.resources
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika_desktop.BaseForm.resources
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Dosen.DosenForm.resources
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Login.LoginForm.resources
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Matkul.MatkulForm.resources
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.AddMhsForm.resources
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.MhsForm.resources
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Profile.ProfileForm.resources
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Properties.Resources.resources
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.GenerateResource.cache
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika-desktop.csproj.CoreCompileInputs.cache
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika-desktop.exe
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika-desktop.pdb
+D:\Hendrik\OOPC#\project\mika-desktop\mika-desktop\obj\Debug\mika_desktop.Mhs.Absensi.ManageAbcense.resources
